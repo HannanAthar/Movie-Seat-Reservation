@@ -1,0 +1,247 @@
+[
+   {
+       "day": "Monday",
+       "movies": [
+           {
+               "name": "The Lost City",
+               "seats": 30,
+               "details": [],
+               "time": "11:00:AM"
+           },
+           {
+               "name": "Black Adam",
+               "seats": 30,
+               "details": [],
+               "time": "1:30:PM"
+           },
+           {
+               "name": "Firestarter",
+               "seats": 30,
+               "details": [],
+               "time": "4:30:PM"
+           },
+           {
+               "name": "Choose or Die",
+               "seats": 30,
+               "details": [],
+               "time": "7:00:PM"
+           },
+           {
+               "name": "Uncharted",
+               "seats": 30,
+               "details": [],
+               "time": "10:00:PM"
+           }
+       ]
+   },
+   {
+       "day": "Tuesday",
+       "movies": [
+           {
+               "name": "Bullet Train",
+               "seats": 30,
+               "details": [],
+               "time": "11:00:AM"
+           },
+           {
+               "name": "The Devil's Night",
+               "seats": 30,
+               "details": [],
+               "time": "1:45:PM"
+           },
+           {
+               "name": "The Gray Man",
+               "seats": 30,
+               "details": [],
+               "time": "3:45:PM"
+           },
+           {
+               "name": "The Batman",
+               "seats": 30,
+               "details": [],
+               "time": "6:00:PM"
+           },
+           {
+               "name": "Memory",
+               "seats": 30,
+               "details": [],
+               "time": "9:00:PM"
+           }
+       ]
+   },
+   {
+       "day": "Wednesday",
+       "movies": [
+           {
+               "name": "Thor: Love and Thunder",
+               "seats": 30,
+               "details": [],
+               "time": "12:00:PM"
+           },
+           {
+               "name": "Avatar: The Way of Water",
+               "seats": 30,
+               "details": [],
+               "time": "2:30:PM"
+           },
+           {
+               "name": "The King's Daughter",
+               "seats": 30,
+               "details": [],
+               "time": "5:30:PM"
+           },
+           {
+               "name": "A Day To Die",
+               "seats": 30,
+               "details": [],
+               "time": "7:30:PM"
+           },
+           {
+               "name": "Into the World",
+               "seats": 30,
+               "details": [],
+               "time": "10:00:PM"
+           }
+       ]
+   },
+   {
+       "day": "Thursday",
+       "movies": [
+           {
+               "name": "Along for the Ride",
+               "seats": 30,
+               "details": [],
+               "time": "11:30:AM"
+           },
+           {
+               "name": "Avengers: Infinity War",
+               "seats": 30,
+               "details": [],
+               "time": "1:30:PM"
+           },
+           {
+               "name": "The Twin",
+               "seats": 30,
+               "details": [],
+               "time": "4:00:PM"
+           },
+           {
+               "name": "Ant-Man and the Wasp: Quantumania",
+               "seats": 30,
+               "details": [],
+               "time": "6:30:PM"
+           },
+           {
+               "name": "Scream 5",
+               "seats": 30,
+               "details": [],
+               "time": "9:00:PM"
+           }
+       ]
+   },
+   {
+       "day": "Friday",
+       "movies": [
+           {
+               "name": "Shazam! Fury of the Gods",
+               "seats": 30,
+               "details": [],
+               "time": "11:30:AM"
+           },
+           {
+               "name": "Rim of the World",
+               "seats": 30,
+               "details": [],
+               "time": "2:30:PM"
+           },
+           {
+               "name": "Dark Harvest",
+               "seats": 30,
+               "details": [],
+               "time": "4:30:PM"
+           },
+           {
+               "name": "Black Panther: Wakanda Forever",
+               "seats": 30,
+               "details": [],
+               "time": "7:00:PM"
+           },
+           {
+               "name": "Spider-Man: Across the Spider-Verse",
+               "seats": 30,
+               "details": [],
+               "time": "9:30:PM"
+           }
+       ]
+   },
+   {
+       "day": "Saturday",
+       "movies": [
+           {
+               "name": "Aquaman and the Lost Kingdom",
+               "seats": 30,
+               "details": [],
+               "time": "1:00:PM"
+           },
+           {
+               "name": "Fast X",
+               "seats": 30,
+               "details": [],
+               "time": "3:30:PM"
+           },
+           {
+               "name": "Guardians of the Galaxy Vol. 3",
+               "seats": 30,
+               "details": [],
+               "time": "6:00:PM"
+           },
+           {
+               "name": "The Flash",
+               "seats": 30,
+               "details": [],
+               "time": "8:30:PM"
+           },
+           {
+               "name": "Transformers: Rise of the Beasts",
+               "seats": 30,
+               "details": [],
+               "time": "11:00:PM"
+           }
+       ]
+   },
+   {
+       "day": "Sunday",
+       "movies": [
+           {
+               "name": "The Invitation",
+               "seats": 30,
+               "details": [],
+               "time": "11:00:AM"
+           },
+           {
+               "name": "Nope",
+               "seats": 30,
+               "details": [],
+               "time": "1:30:PM"
+           },
+           {
+               "name": "Ant-Man and the Wasp: Quantumania",
+               "seats": 30,
+               "details": [],
+               "time": "3:45:PM"
+           },
+           {
+               "name": "Shazam! Fury of the Gods",
+               "seats": 30,
+               "details": [],
+               "time": "6:00:PM"
+           },
+           {
+               "name": "Indiana Jones 5",
+               "seats": 30,
+               "details": [],
+               "time": "9:15:PM"
+           }
+       ]
+   }
+]
